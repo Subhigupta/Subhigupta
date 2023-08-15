@@ -1,6 +1,6 @@
  ### Heyy this is Subhi👋
-- 👀 I’m interested in Data Science, Machine Learning, Process control and atomation, Advanced control and optimization algorithms.
-- 🌱 I’m currently learning Python, MATLAB, Advanced Control and optimization techniques
-- 📫 For any important update or queries please use this link [here](https://www.linkedin.com/in/subhi-gupta/)
-
-
+- 👀 I have worked on the implementation of advanced control algorithms like Model Predictive Control (MPC), Explicit MPC and Hierarchical/Bilevel MPC.
+- ⌛ Currently demonstrated the performance of aforementioned algorithms on temperature control laboratory (TCLab) and thermal mixing process system.
+- 🔆I’m also interested and currently exploring domains like Data Science, Machine Learning and Deep learning through an industrial project.
+- 🌱 Currently using Python and MATLAB for projects.
+- 📫 Ask me about anything [here](https://www.linkedin.com/in/subhi-gupta/)
